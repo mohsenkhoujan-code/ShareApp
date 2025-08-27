@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="TeamWorkOPC.UserControl1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TeamWorkOPC"
+             mc:Ignorable="d" Height="268" Width="397">
+    <Grid Margin="0,0,46,0">
+        <StackPanel Background="#FFC52525" HorizontalAlignment="Center" Width="382"/>
+    </Grid>
+</UserControl>
