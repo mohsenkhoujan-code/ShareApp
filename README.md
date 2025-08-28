@@ -14,7 +14,7 @@ pip install request
 pip install PyQt6
 pip install PySide6
 ```
-### مراحل استفاده
+### مراحل استفاده ###
 ابتدا با دستور زیر وبسایت را اجرا میکنیم:
 ```cmd
 Script\activate
@@ -27,13 +27,20 @@ manage.py runserver
 
 
 Username: mohsen 
+
+
 Password: 12345678qwerty
 ------------------------------------------
 Username: yasin 
+
+
 Password: 12345678qwerty
 ------------------------------------------
 Username: mahdi_azk 
+
+
 Password: 12345678qwerty
+
 
 بعد از ورود به حساب کاربری با استفاده از Chat room میتوان چت کرد و با استفاده از Manage files هم میتوان فایل ها را ارسال یا آپلود کرد
 
