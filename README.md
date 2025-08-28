@@ -24,20 +24,16 @@ manage.py runserver
 
 
 فقط سه عدد حساب کاربری برای ورود به برنامه داریم:
-
-
-Username: mohsen 
-
-Password: 12345678qwerty
 ------------------------------------------
-Username: yasin 
-
-Password: 12345678qwerty
+**Username**: mohsen  
+**Password**: 12345678qwerty
 ------------------------------------------
-Username: mahdi_azk 
-
-Password: 12345678qwerty
-
+**Username**: yasin  
+**Password**: 12345678qwerty
+------------------------------------------
+**Username**: mahdi_azk  
+**Password**: 12345678qwerty
+------------------------------------------
 
 بعد از ورود به حساب کاربری با استفاده از Chat room میتوان چت کرد و با استفاده از Manage files هم میتوان فایل ها را ارسال یا آپلود کرد
 
