@@ -14,7 +14,7 @@ pip install request
 pip install PyQt6
 pip install PySide6
 ```
-### مراحل استفاده ###
+### مراحل استفاده
 ابتدا با دستور زیر وبسایت را اجرا میکنیم:
 ```cmd
 Script\activate
