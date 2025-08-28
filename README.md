@@ -28,16 +28,13 @@ manage.py runserver
 
 Username: mohsen 
 
-
 Password: 12345678qwerty
 ------------------------------------------
 Username: yasin 
 
-
 Password: 12345678qwerty
 ------------------------------------------
 Username: mahdi_azk 
-
 
 Password: 12345678qwerty
 
